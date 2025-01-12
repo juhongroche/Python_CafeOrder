@@ -1,0 +1,7 @@
+=========== Products Menu Options ===========
+0: Return to Main Menu
+1: DISPLAY PRODUCTS
+2: CREATE NEW PRODUCT
+3: UPDATE PRODUCTS
+4: Delete Product
+=============================================

@@ -1,0 +1,8 @@
+======Orders Menu options========
+0: Return to Main Menu
+1: Display Orders
+2: Create New Order
+3: Update Existing Order Status
+4: Update Existing Order
+5: Delete Order
+=================================

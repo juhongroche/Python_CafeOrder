@@ -1,5 +1,5 @@
 # Python_CafeOrder
-Python Project for care order system
+Python Project for cafe order system
 
 Project Background:
 
